@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagens/Desafio\ mariah\ carey_page-0001.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;   
+}
